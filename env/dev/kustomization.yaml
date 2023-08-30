@@ -6,6 +6,6 @@ resources:
 
 images:
 - name: ghcr.io/BenManifold/demo-app
-  newTag: d175c8b3c6841899a5fb2e3ffb68f1935e07b994
+  newTag: 6ebff6989ad65da4ab8b1e0ef99d93c0fe106771
 - name: ghcr.io/benmanifold/demo-app
   newTag: latest
