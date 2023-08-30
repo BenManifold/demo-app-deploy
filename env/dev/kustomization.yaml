@@ -5,5 +5,5 @@ resources:
 - ../../base
 
 images:
-- name: ghcr.io/BenManifold/demo-app
+- name: ghcr.io/benmanifold/demo-app
   newTag: latest
